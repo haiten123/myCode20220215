@@ -1,0 +1,10 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+.foo {
+  width: 600px;
+  height: 230px;
+  background-color: purple;
+}
